@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <ArtifactsDir>$(MSBuildThisFileDirectory)artifacts\</ArtifactsDir>
+    
+    <BaseIntermediateOutputPath>$(ArtifactsDir)obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+    <IntermediateOutputPath>$(BaseIntermediateOutputPath)$(Configuration)\</IntermediateOutputPath>
+    
+    <BaseOutputPath>$(ArtifactsDir)bin\$(MSBuildProjectName)\</BaseOutputPath>
+    <OutputPath>$(BaseOutputPath)$(Configuration)\</OutputPath>
+    
+    <PackageOutputPath>$(ArtifactsDir)packages\</PackageOutputPath>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,14 @@
+I:\ReScore\artifacts\bin\ReScore\Debug\net10.0\ReScore.exe
+I:\ReScore\artifacts\bin\ReScore\Debug\net10.0\ReScore.deps.json
+I:\ReScore\artifacts\bin\ReScore\Debug\net10.0\ReScore.runtimeconfig.json
+I:\ReScore\artifacts\bin\ReScore\Debug\net10.0\ReScore.dll
+I:\ReScore\artifacts\bin\ReScore\Debug\net10.0\ReScore.pdb
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.GeneratedMSBuildEditorConfig.editorconfig
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.AssemblyInfoInputs.cache
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.AssemblyInfo.cs
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.csproj.CoreCompileInputs.cache
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.dll
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\refint\ReScore.dll
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.pdb
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ReScore.genruntimeconfig.cache
+I:\ReScore\artifacts\obj\ReScore\Debug\net10.0\ref\ReScore.dll
